@@ -1,0 +1,3 @@
+"ID","Pergunta","Opcao"
+1,"Como o investidor costuma declarar seu Imposto de Renda, via declaração Simplificada ou Completa?","1 - Declaração Simplificada; 2 - Declaração Completa"
+2,"Qual a porcentagem da renda que o investidor deseja investir em previdência privada (digite a porcentagem em inteiro, exemplo: 10% = 10)?",

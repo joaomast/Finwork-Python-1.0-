@@ -1,0 +1,3 @@
+"ID","Tabela"
+1,"De acordo com o seu perfil, a tabela de IR sobre Previdência indicada é a Tabela Progressiva."
+2,"De acordo com o seu perfil, a tabela de IR sobre Previdência indicada é a Tabela Regressiva."

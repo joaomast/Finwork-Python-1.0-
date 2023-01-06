@@ -1,0 +1,7 @@
+"ID","Opcao"
+1,"1 - Até 2 anos"
+2,"2 - De 2 a 4 anos"
+3,"3 - De 4 a 6 anos"
+4,"4 - De 6 a 8 anos"
+5,"5 - De 8 a 10 anos"
+6,"6 - Acima de 10 anos"
